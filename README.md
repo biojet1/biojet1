@@ -1,4 +1,5 @@
 ### Apps
+![Circle Calculator](https://jetlogic-circle-calculator.netlify.app/favicon.ico)
 [Circle Calculator](https://jetlogic-circle-calculator.netlify.app/)
 [Angle Converter](https://jetlogic-angle-converter.netlify.app/)
 
