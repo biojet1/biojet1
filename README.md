@@ -1,7 +1,6 @@
 ### Apps
-![Circle Calculator](https://jetlogic-circle-calculator.netlify.app/favicon.ico)
-[Circle Calculator](https://jetlogic-circle-calculator.netlify.app/)
-[Angle Converter](https://jetlogic-angle-converter.netlify.app/)
+[![Circle Calculator](https://jetlogic-circle-calculator.netlify.app/favicon.ico)](https://jetlogic-circle-calculator.netlify.app/) Circle Calculator
+[![Angle Converter](https://jetlogic-angle-converter.netlify.app/favicon.ico)](https://jetlogic-angle-converter.netlify.app/) Angle Converter
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
