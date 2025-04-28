@@ -2,6 +2,11 @@
 [![Circle Calculator](https://jetlogic-circle-calculator.netlify.app/favicon.ico)](https://jetlogic-circle-calculator.netlify.app/) Circle Calculator
 [![Angle Converter](https://jetlogic-angle-converter.netlify.app/favicon.ico)](https://jetlogic-angle-converter.netlify.app/) Angle Converter
 
+## ☕ Support  
+If you find this project helpful, consider supporting me:  
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JetLogic)  
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
